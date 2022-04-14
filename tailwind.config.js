@@ -1,5 +1,4 @@
 module.exports = {
-  mode: 'jit',
   content: ['./dist/**/*.{html,js}',
             './index.html' ,                
 ],
