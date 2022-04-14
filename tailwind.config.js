@@ -20,8 +20,9 @@ module.exports = {
         dark: '#000',
       },
       screen: {
-        '2xl' : '1320px',
-      }
+         'xl': '1280px',
+      // => @media (min-width: 1280px) { ... }
+      },
     },
   },
   plugins: [],
