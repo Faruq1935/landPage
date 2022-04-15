@@ -18,7 +18,7 @@ module.exports = {
         secondary: '#64748b',
         dark: '#000',
       },
-      screen: {
+      screens: {
          'xl': '1280px',
       // => @media (min-width: 1280px) { ... }
       },
